@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exc61": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}

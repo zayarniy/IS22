@@ -1,0 +1,17 @@
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.exe
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.deps.json
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.runtimeconfig.json
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.runtimeconfig.dev.json
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.dll
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\ref\Exc61.dll
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\Exc61.pdb
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.csproj.AssemblyReference.cache
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.AssemblyInfoInputs.cache
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.AssemblyInfo.cs
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.csproj.CoreCompileInputs.cache
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.dll
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\ref\Exc61.dll
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.pdb
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\obj\Debug\net5.0\Exc61.genruntimeconfig.cache
+C:\Users\ZayarniyAA\source\repos\Lab6\Exc61\bin\Debug\net5.0\input.txt
